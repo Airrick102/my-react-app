@@ -1,3 +1,5 @@
+This is my first react app. This app was made with the help of this tutorial: https://www.youtube.com/watch?v=Ke90Tje7VS0&t=
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
